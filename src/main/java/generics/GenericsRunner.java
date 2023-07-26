@@ -1,6 +1,6 @@
 package generics;
 
-import generics.cars.CarrierSpace;
+import generics.parameters.CarrierSpace;
 import generics.cars.Kamaz;
 import generics.cars.Lada;
 import generics.cars.Volkswagen;

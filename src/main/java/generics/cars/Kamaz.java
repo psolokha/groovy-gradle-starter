@@ -1,9 +1,6 @@
 package generics.cars;
 
-import generics.parameters.CarBody;
-import generics.parameters.CarColor;
-import generics.parameters.Engine;
-import generics.parameters.Tyres;
+import generics.parameters.*;
 
 public class Kamaz extends Truck{
     public Kamaz(Engine engine, CarBody body, CarColor color, Tyres tyres, CarrierSpace space) {

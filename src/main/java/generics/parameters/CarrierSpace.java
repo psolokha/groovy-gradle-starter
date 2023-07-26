@@ -1,4 +1,4 @@
-package generics.cars;
+package generics.parameters;
 
 import generics.interfaces.Space;
 

@@ -2,10 +2,7 @@ package generics.cars;
 
 import generics.Automobile;
 import generics.interfaces.Space;
-import generics.parameters.CarBody;
-import generics.parameters.CarColor;
-import generics.parameters.Engine;
-import generics.parameters.Tyres;
+import generics.parameters.*;
 
 public class Truck extends Automobile implements Space {
     private final CarrierSpace space;
