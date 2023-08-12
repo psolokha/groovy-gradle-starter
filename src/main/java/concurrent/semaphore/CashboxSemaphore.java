@@ -1,10 +1,10 @@
-package concurrent.queue;
+package concurrent.semaphore;
 
-public class Cashbox {
+public class CashboxSemaphore {
     private static int generator = 1;
     private int id;
 
-    public Cashbox() {
+    public CashboxSemaphore() {
         this.id = id;
     }
 
