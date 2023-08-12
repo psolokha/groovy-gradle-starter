@@ -16,3 +16,11 @@ mean"""
 println string1-("what")
 
 println name * 3
+
+def getWithPrefix(String line) {
+    "prefix-" + line
+}
+
+println "this text with prefix word: ${getWithPrefix(name)}"
+def str = /^'regex\"$/
+println str

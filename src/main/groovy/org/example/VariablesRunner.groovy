@@ -9,6 +9,6 @@ class VariablesRunner {
     static void main(String[] args) {
         def value = 5
         def value2 = 5G
-        //new SqlDate()
+        new SqlDate(2023, 4, 12);
     }
 }
