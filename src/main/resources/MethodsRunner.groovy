@@ -8,7 +8,7 @@ def printer = { text -> println "$text"}
 
 printer("line1...")
 
-def myMethod(someVar) {
+static def myMethod(someVar) {
     someVar.call("Groovy")
 }
 
